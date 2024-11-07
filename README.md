@@ -19,6 +19,7 @@
 
 
 ### Game Development
+![Static Badge](https://img.shields.io/badge/unity-x?style=for-the-badge&logo=unity&logoColor=black&color=ffffff)
 
 ### Version Control
 ![Static Badge](https://img.shields.io/badge/github-x?style=for-the-badge&logo=github&logoColor=white&color=%23181717)
