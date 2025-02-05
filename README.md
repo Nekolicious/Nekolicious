@@ -17,6 +17,8 @@
 ![Static Badge](https://img.shields.io/badge/Javascript-x?style=for-the-badge&logo=javascript&logoColor=3F7DF1E&color=2b2b2b)
 ![Static Badge](https://img.shields.io/badge/Typescript-x?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 ![Static Badge](https://img.shields.io/badge/php-x?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+![Static Badge](https://img.shields.io/badge/c%23-x?style=for-the-badge&logo=csharp&logoColor=white&color=%239179E4)
+
 
 ### Game Development
 ![Static Badge](https://img.shields.io/badge/unity-x?style=for-the-badge&logo=unity&logoColor=black&color=ffffff)
